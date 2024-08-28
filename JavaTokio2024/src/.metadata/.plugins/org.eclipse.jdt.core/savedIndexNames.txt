@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\Git\Java_ale_fiap\JavaTokio2024\src\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

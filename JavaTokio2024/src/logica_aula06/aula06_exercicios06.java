@@ -14,11 +14,12 @@ public class aula06_exercicios06 {
 		
 		if(idade >= 16 && idade < 18||idade > 70){
 			System.out.println("Voto opcional");
-		}else if (idade >=18 && idade <= 70) {
+		}else if(idade >=18 && idade <= 70) {
 			System.out.println("Voto obrigatorio");
-		}else {
+		}else{
 			System.out.println("seu voto é proibido");
 		}
+		
 	}
 
 }
